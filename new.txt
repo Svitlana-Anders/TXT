@@ -1,0 +1,7 @@
+                   
+                                    name - Svitlana
+                                    surnane - Anders
+                                    age - 44
+                                    pets - dog
+                                    expected salary - 2000
+                                
